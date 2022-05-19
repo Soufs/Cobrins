@@ -1,2 +1,1 @@
-# Cobrins
-Its literally a snake game.
+# Zombie-Shooter-stage-1
