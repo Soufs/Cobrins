@@ -3,12 +3,8 @@ html, body{
 }
 
 .customButton{
-    width: 180px;
-    height: 50px;
-    background-color: peachpuff;
-    color:black;
-    text-align: center;
-}
+    width: 14%;
+    height: 12%;}
 
 .customButton2{
     width:200px; 
